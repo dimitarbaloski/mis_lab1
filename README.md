@@ -1,4 +1,4 @@
-# flutter_application_1
+# Мобилни информациски системи - Лабораториска 1
 
 A new Flutter project.
 
